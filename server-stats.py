@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import psutil
 import os
 import platform
@@ -29,3 +30,6 @@ print("Additional System Information:")
 print(f"OS: {platform.system()} {platform.release()}")
 print(f"Uptime: {psutil.boot_time()}")
 print(f"Logged-in Users: {len(psutil.users())}")
+=======
+
+>>>>>>> 139350e7e308d70f5afa7dd25b5baffb5b347676

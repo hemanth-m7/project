@@ -1,4 +1,8 @@
 # Server Stats Script
+<<<<<<< HEAD
+=======
+https://roadmap.sh/projects/server-stats
+>>>>>>> 139350e7e308d70f5afa7dd25b5baffb5b347676
 
 This script provides a comprehensive overview of server statistics, including CPU usage, memory usage, disk usage, network usage, top processes, system load averages, uptime, and login information. It is designed for Linux-based systems.
 
@@ -68,4 +72,8 @@ The script outputs the following information:
 
 ## License
 
+<<<<<<< HEAD
 This script is provided "as is" without warranty of any kind. Use it at your own risk.
+=======
+This script is provided "as is" without warranty of any kind. Use it at your own risk.
+>>>>>>> 139350e7e308d70f5afa7dd25b5baffb5b347676
